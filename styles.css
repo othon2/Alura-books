@@ -11,4 +11,8 @@ h1 {
 }@import url("styles/header.css");:root {
     --cor-de-fundo: #EBECEE;
     --branco: #FFFFFF;
-}
+}:root {
+    --cor-de-fundo: #ebecee;
+    --branco: #ffffff;
+    --laranja: #eb9b00;
+  }
