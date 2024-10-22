@@ -46,4 +46,9 @@
     position: absolute;
     top: 100%;
     width: 60vw;
+  }.lista-menu__titulo {
+    color: var(--laranja);
+    font-weight: 700;
+  }.container__botao {
+    display: none;
   }
