@@ -8,4 +8,7 @@ body {
 
 h1 {
     background-color: white;
-}@import url("styles/header.css");
+}@import url("styles/header.css");:root {
+    --cor-de-fundo: #EBECEE;
+    --branco: #FFFFFF;
+}
